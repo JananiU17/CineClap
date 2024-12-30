@@ -35,7 +35,7 @@ const Card: React.FC<CardProps> = ({ item }) => {
           flexDirection: 'row', 
           alignItems: 'center', 
           marginTop: 10, 
-          backgroundColor: '#000000', 
+          backgroundColor: '#FF6F00', 
           padding: 10, borderRadius: 10,}}  
         onPress={increment}
       >
@@ -47,7 +47,7 @@ const Card: React.FC<CardProps> = ({ item }) => {
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#F5F5DC',
     borderRadius: 8,
     padding: 16,
     marginBottom: 12,
