@@ -1,2 +1,2 @@
-# Jetzy
-A dynamic React Native music app delivering personalized playlists, seamless streaming, and a vibrant user experience at your fingertips
+# CineClap
+A dynamic React Native movie app bringing the magic of cinema to your fingertips. Enjoy personalized movie recommendations, seamless streaming, and a vibrant user experience designed for film enthusiasts !
